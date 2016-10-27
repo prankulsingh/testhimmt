@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test himmt</string>
+    <string name="title_activity_student_query">StudentQueryActivity</string>
+    <string name="title_activity_ta_query">TaQueryActivity</string>
+</resources>
